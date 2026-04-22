@@ -1,0 +1,7 @@
+Grouping logic:
+- Paragraphs are grouped by consecutive runs that share style and local section context.
+- Table cells are grouped within the same table and column, further split by row-shape signature.
+- A group is checked only when it has at least 3 items and one ending style clearly dominates.
+- Built 89 paragraph groups and 402 table groups.
+
+Findings: 3

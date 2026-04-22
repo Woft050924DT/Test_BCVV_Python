@@ -1,0 +1,4 @@
+﻿Text snippet,Detected ending,Expected ending,Group identifier,Reason for flagging,Location
+Les normes suivantes s’appliquent à l’humidificateur respiratoire ACME 820 et à l’humidificateur respiratoire ACME Device B :,colon,none,Paragraphs style=Normal section=Informations sur le produit > Normes applicables,Ending 'colon' differs from dominant ending 'none' in group (5/6 items).,paragraph 59
+Vérifications de la séquence de démarrage.,period,none,Table 21 column 1 header=Étape,Ending 'period' differs from dominant ending 'none' in group (3/4 items).,"table 21, row 12, col 1"
+Les voyants d’humidité sont allumés en permanence à la fin du préchauffement ? (Si testé),none,question,Table 57 column 1 header=Test de fonctionnement (se référer à la section...,Ending 'none' differs from dominant ending 'question' in group (2/3 items).,"table 57, row 8, col 1"
